@@ -1,0 +1,2 @@
+C:/Users/diole/StudioProjects/produtos/build/.cxx/release/d2z261a5/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/diole/StudioProjects/produtos/build/.cxx/release/d2z261a5/armeabi-v7a/CMakeFiles/rebuild_cache.dir

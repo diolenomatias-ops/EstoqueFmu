@@ -1,0 +1,1701 @@
+Marking string:androidx_startup:2131427328 reachable: referenced from in_memory_r8_base_classes0.dex
+android.content.res.Resources#getIdentifier present: true
+Web content present: false
+Referenced Strings:
+exception
+StandardOutputSensitivity
+DISMISS
+TextInput.requestAutofill
+app_flutter
+String
+deviceId
+java.lang.Integer
+BrightnessValue
+GPSSpeed
+verticalText
+verificationMode
+android.util.LongArray
+getUncaughtExceptionPreHandler
+HapticFeedbackType.warningNotification
+onBackPressed
+EXPAND
+GeneratedPluginsRegister
+java.lang.CharSequence
+_handled
+givenName
+Function1
+Function0
+Function3
+Function2
+Orientation
+Function5
+Function4
+click
+Function7
+Function6
+AspectFrame
+kotlin.jvm.functions.
+kotlinx.coroutines.DefaultExecutor
+left
+kotlinx.coroutines.scheduler.default....
+TextInputClient.updateEditingStateWit...
+registerWith
+SystemSoundType.alert
+S_RESUMING_BY_RCV
+DECREASE
+touchOffset
+ImageLength
+android.intent.extra.PROCESS_TEXT_REA...
+libapp.so
+Function9
+Function8
+RestorationChannel
+middleInitial
+SystemUiMode.immersiveSticky
+flutter/platform_views
+image/heif
+TextCapitalization.words
+kotlin.jvm.internal.LongCompanionObject
+codePoint
+EXTRA_BENCHMARK_OPERATION
+_
+a
+b
+c
+SystemUiOverlay.top
+d
+RESULT_PARSE_EXCEPTION
+g
+destroy_engine_with_activity
+CameraOwnerName
+RESUMING_BY_EB
+kotlin.String
+n
+sidecarDeviceState
+SUSPEND
+java.lang.Module
+x
+onNewIntent
+SystemUiMode.edgeToEdge
+Startup
+acc
+ULONG
+flutter_assets
+Comparable
+GPSAltitude
+ColorSpace
+ImageUniqueID
+TextInputClient.performPrivateCommand
+displayFeature.rect
+androidx.profileinstaller.action.SKIP...
+mimeType
+isTagEnabled
+startIndex
+emailAddress
+addSuppressed
+ThumbnailImageWidth
+bufferEndSegment
+Short
+addressCountry
+kotlin.jvm.internal.BooleanCompanionO...
+LONG_PRESS
+DID_LOSE_ACCESSIBILITY_FOCUS
+flutter/keyevent
+DateTimeDigitized
+phoneCountryCode
+telephoneNumberCountryCode
+decimal
+AppLifecycleState.
+SystemChrome.setSystemUIOverlayStyle
+addWindowLayoutInfoListener
+TextInput.setEditableSizeAndTransform
+enable_state_restoration
+COMPLETING_WAITING_CHILDREN
+RESULT_BASELINE_PROFILE_NOT_FOUND
+_invoked
+PixelYDimension
+locale
+RESULT_DELETE_SKIP_FILE_SUCCESS
+FlashpixVersion
+SDK_INT
+KeyEmbedderResponder
+WhiteBalance
+iterator.baseContext
+SET_SELECTION
+kotlinx.coroutines.main.delay
+_delayed
+io.flutter.embedding.android.OldGenHe...
+BITMAP_MASKABLE
+MOVE_CURSOR_BACKWARD_BY_CHARACTER
+kotlin.collections.List
+http://ns.adobe.com/xap/1.0/
+label
+MOVE_CURSOR_FORWARD_BY_CHARACTER
+message
+GPSImgDirection
+scanCode
+FlutterJNI
+args
+java.util.function.Consumer
+resizeUpLeft
+setDisplayFeatures
+HapticFeedbackType.lightImpact
+TextInputType.emailAddress
+creditCardExpirationDay
+ACTION_ARGUMENT_SET_TEXT_CHARSEQUENCE
+android.view.View$AttachInfo
+username
+FlutterActivity
+Enum
+java.lang.Float
+GPSDifferential
+Dispatchers.IO
+UNDEFINED
+GPSTimeStamp
+focus
+PAUSED
+androidx.profileinstaller.action.SAVE...
+android.os.Build$VERSION
+dexopt/baseline.prof
+flutter/sensitivecontent
+executor
+ImageWidth
+androidx.window.extensions.WindowExte...
+BYTE
+kotlinx.coroutines.internal.StackTrac...
+kotlin.Double.Companion
+createSegment
+write
+onStop
+TextInputType.none
+SensorLeftBorder
+GPSDestLatitudeRef
+TextInputAction.none
+byte
+FileSource
+_rootCause
+kotlin.jvm.functions.Function3
+FocalLengthIn35mmFilm
+kotlin.jvm.functions.Function4
+kotlin.jvm.functions.Function1
+kotlin.jvm.functions.Function2
+GPSStatus
+kotlin.jvm.functions.Function0
+kotlin.jvm.functions.Function9
+kotlin.jvm.functions.Function7
+XResolution
+YCbCrCoefficients
+kotlin.jvm.functions.Function8
+kotlin.jvm.functions.Function5
+resizeUp
+creditCardNumber
+kotlin.jvm.functions.Function6
+RESULT_NOT_WRITABLE
+onPostResume
+%02d:%02d:%02d
+io.flutter.Entrypoint
+RESULT_INSTALL_SKIP_FILE_SUCCESS
+other
+wait
+FlutterActivityAndFragmentDelegate
+birthDateYear
+android.intent.extra.TEXT
+MaxApertureValue
+cell
+URI
+FlutterTextureView
+top
+io.flutter.embedding.android.EnableVu...
+kotlin.Long
+Completing
+java.lang.String
+ExifIFDPointer
+addressRegion
+resizeDown
+TextInput.setClient
+_resumed
+TextInputType.multiline
+GPSHPositioningError
+getChildId
+ExifMetadataReader
+framework
+runningWorkers
+DESTROYED
+ExifVersion
+GPSLatitude
+selectionExtent
+New
+SystemChrome.setEnabledSystemUIOverlays
+Compression
+SINGLE
+kotlin.collections.Collection
+ExposureProgram
+UTC
+ReflectionGuard
+TextInputAction.send
+Copyright
+onStart
+android.widget.CheckBox
+_isCompleting
+HapticFeedback.vibrate
+FNumber
+repeatCount
+noDrop
+flutter/keydata
+read
+void
+memoryPressure
+flutter/restoration
+touch
+onUserLeaveHint
+_cur
+onResume
+java.util.List
+hybrid
+SensitivityType
+kotlin.Int
+ImageDescription
+basic
+kotlin.Throwable
+parkedWorkersStack
+COMPLETING_ALREADY
+systemNavigationBarColor
+displayCutout
+PlatformPlugin
+Any
+java.lang.Iterable
+Companion
+MakerNote
+kotlinx.coroutines.DefaultExecutor.ke...
+kotlin.Annotation
+OffsetTime
+GPSTrackRef
+synchronizeToNativeViewHierarchy
+info.displayFeatures
+YCbCrPositioning
+direction
+BITMAP
+SubjectLocation
+windowConfiguration
+resizeUpRight
+Array
+androidx.window.extensions.layout.Win...
+DigitalZoomRatio
+flutter/lifecycle
+TextInputType.number
+kotlin.Float.Companion
+SLONG
+UNKNOWN
+getParentNodeId
+ContentSizingFlag
+accessibility
+getAppBounds
+SystemChrome.setEnabledSystemUIMode
+ANIM
+receiveSegment
+android.widget.HorizontalScrollView
+password
+NO_CLOSE_CAUSE
+kotlinx.coroutines.scheduler.keep.ali...
+INCREASE
+element
+cache
+creditCardExpirationMonth
+deltaText
+zoomIn
+Make
+android.view.ViewRootImpl
+HapticFeedbackType.errorNotification
+io.flutter.embedding.android.EnableSu...
+GPSImgDirectionRef
+InteroperabilityIndex
+FocalPlaneYResolution
+_COROUTINE.
+REMOVE_FROZEN
+GPSDestDistanceRef
+kotlin.Short.Companion
+getStateMethod
+DROP_SHADER_CACHE
+kotlin.collections.ListIterator
+oemFeature.bounds
+GPSLatitudeRef
+getKeyboardState
+CUSTOM_ACTION
+TextInputClient.updateEditingStateWit...
+cached_engine_id
+setRemoveOnCancelPolicy
+receive
+WhitePoint
+forbidden
+ComponentsConfiguration
+windowToken
+onTrimMemory
+blockingTasksInBuffer
+getSourceNodeId
+SensitiveContent.setContentSensitivity
+streetAddress
+kotlin.Char
+ACTION_ARGUMENT_EXTEND_SELECTION_BOOLEAN
+flutter/isolate
+grab
+_decisionAndIndex
+dimen
+lib
+java.util.ListIterator
+GPSAltitudeRef
+flutter/backgesture
+DefaultDispatcher
+source
+kotlin.Double
+MediaMetadataReader
+onActivityResult
+GPSMapDatum
+removeListenerMethod
+view
+java.lang.Short
+allScroll
+SystemChrome.systemUIChange
+ANMF
+android.widget.Button
+_closeCause
+addressCity
+includeSubdomains
+unreachable
+creditCardSecurityCode
+PreviewImageStart
+DIAGNOSTIC_PROFILE_IS_COMPRESSED
+FULL
+flutter
+phoneNumber
+GPSDestLongitude
+composingBase
+name
+Long
+DartExecutor
+fields
+SceneCaptureType
+INTERRUPTED_RCV
+getDescriptor
+keymap
+Iterable
+string
+FlutterLoader
+onRequestPermissionsResult
+deltaStart
+kotlin.coroutines.jvm.internal.BaseCo...
+IFD
+android
+platformViewId
+kotlin.Function3
+java.lang.module.ModuleDescriptor
+kotlin.Function4
+description
+nameSuffix
+kotlin.Function1
+_isTerminated
+kotlin.Function2
+GPSDateStamp
+kotlin.Function0
+SEALED
+textScaleFactor
+CREATED
+kotlin.Function9
+kotlin.Function7
+kotlin.Function8
+kotlin.Function5
+namePrefix
+kotlin.Function6
+io.flutter.embedding.android.NormalTheme
+SubfileType
+SUSPEND_NO_WAITER
+Dispatchers.Main
+DNGVersion
+yes
+EXTRA_SKIP_FILE_OPERATION
+_windowInsetsCompat
+FlutterSurfaceView
+Cancelled
+getPosture
+pair
+PrimaryChromaticities
+getWindowExtensions
+enableSuggestions
+PASTE
+short
+middleName
+window
+personFamilyName
+Cancelling
+COMPLETING_RETRY
+ApertureValue
+Function10
+TextInput.clearClient
+SCROLL_RIGHT
+android.widget.ImageView
+android.widget.RadioButton
+_isCompleted
+Function14
+textCapitalization
+Function13
+Function12
+.so
+Function11
+hybridFallback
+Function18
+Function17
+getBounds
+Function16
+put
+Function15
+EmptyCoroutineContext
+TextInputType.text
+YResolution
+ACTION_ARGUMENT_SELECTION_END_INT
+FAILED
+POISONED
+SCROLL_LEFT
+ExposureTime
+HapticFeedbackType.heavyImpact
+TextInputAction.search
+Boolean
+flutter/platform
+kotlin.jvm.internal.FloatCompanionObject
+dart_entrypoint
+Function21
+Function20
+kotlinx.coroutines.scheduler.core.poo...
+kotlinx.coroutines.scheduler.max.pool...
+double
+newPassword
+Function22
+closeHandler
+smsOTPCode
+flutter_deeplinking_enabled
+RelatedSoundFile
+removeWindowLayoutInfoListener
+BUFFERED
+Function19
+light
+kotlin.Short
+.apk
+CHANNEL_CLOSED
+getDisplayFeatures
+GPSTrack
+java.lang.Throwable
+SceneType
+/data/misc/profiles/cur/0/
+flags
+SystemSound.play
+SystemUiOverlay.bottom
+onPause
+ImageReaderSurfaceProducer
+kotlinx.coroutines.bufferedChannel.ex...
+enabled
+android.widget.SeekBar
+android.intent.action.RUN
+COLLAPSE
+INITIALIZED
+resuming_sender
+android.support.v13.view.inputmethod....
+KeyEventChannel
+producerIndex
+flutter/settings
+stackTrace
+addressLocality
+setDirection
+CFAPattern
+GPSDestBearingRef
+java.util.Map$Entry
+VP8L
+display
+LensModel
+BitmapMetadataReader
+SpellCheck.initiateSpellCheck
+composingExtent
+SBYTE
+DeviceOrientation.landscapeLeft
+image/
+birthDateDay
+VP8X
+.immediate
+TextInputAction.unspecified
+libflutter.so
+char
+width
+sendSegment
+kotlin.Char.Companion
+_parentHandle
+kotlinx.coroutines.fast.service.loader
+TAP
+completedExpandBuffersAndPauseFlag
+PENTAX
+kotlin.Any
+Brightness.dark
+ISOSpeed
+RESULT_INSTALL_SUCCESS
+SettingsChannel
+selectionBase
+wm.maximumWindowMetrics.bounds
+plainCodePoint
+getWindowLayoutComponent
+_reusableCancellableContinuation
+android.view.View
+TextInputAction.commitContent
+inputType
+java.lang.Byte
+SubSecTime
+CLOSE_HANDLER_INVOKED
+java.lang.Cloneable
+deltaEnd
+kind
+GPSLongitudeRef
+kotlin.Long.Companion
+GeneratedPluginRegistrant
+ListIterator
+SensitiveContent.getContentSensitivity
+io.flutter.embedding.android.EnableIm...
+_consensus
+CANCELLED
+SCROLL_UP
+CLOSED_EMPTY
+kotlin.collections.Iterator
+TextInputClient.requestExistingInputS...
+setLocale
+Clipboard.setData
+kotlin.jvm.functions.Function18
+kotlin.jvm.functions.Function19
+TextInput.sendAppPrivateCommand
+wm.defaultDisplay
+TextInputType.phone
+SET_TEXT
+kotlin.jvm.functions.Function14
+CLOSED
+kotlin.jvm.functions.Function15
+SystemChrome.restoreSystemUIOverlays
+unexpected
+kotlin.jvm.functions.Function16
+kotlin.jvm.functions.Function17
+NO_RECEIVE_RESULT
+kotlin.jvm.functions.Function10
+kotlin.jvm.functions.Function11
+kotlin.jvm.functions.Function12
+kotlin.jvm.functions.Function13
+consumerIndex
+kotlin.Enum
+_removedRef
+alias
+SensorBottomBorder
+Flash
+deltas
+kotlin.String.Companion
+uniqueIdentifier
+move
+ISOSpeedLatitudezzz
+kotlin.jvm.functions.Function21
+kotlin.jvm.functions.Function22
+jClass
+TextInput.show
+setPosture
+kotlin.jvm.functions.Function20
+WindowInsetsCompat
+android.intent.action.PROCESS_TEXT
+systemNavigationBarDividerColor
+mAttachInfo
+suggestions
+classes.dex
+DeviceSettingDescription
+getModule
+extent
+sidecarCompat
+resizeColumn
+plugins
+mime
+kotlin.Cloneable
+tooltip
+PlatformViewsController2
+PlatformViewsController
+GPSDestBearing
+RecommendedExposureIndex
+flutter/keyboard
+ExposureMode
+GPSSpeedRef
+systemStatusBarContrastEnforced
+androidx.lifecycle.LifecycleDispatche...
+getSuppressed
+kotlin.reflect.jvm.internal.Reflectio...
+FOLD
+DartMessenger
+cleanedAndPointers
+PixelXDimension
+SHOULD_BUFFER
+ON_ANY
+guava.concurrent.generate_cancellatio...
+SystemNavigator.setFrameworkHandlesBack
+MOVE_CURSOR_BACKWARD_BY_WORD
+kotlinx.coroutines.scheduler.resoluti...
+kotlin.Unit
+ON_PAUSE
+route
+getType
+MeteringMode
+FocalLength
+birthdayDay
+domain
+kotlin.jvm.internal.StringCompanionOb...
+StripByteCounts
+viewType
+editingValue
+Set
+SidecarCompat
+DROP_LATEST
+_exceptionsHolder
+transparent
+java.
+io.flutter.embedding.android.Impeller...
+SystemSoundType.click
+kotlin.jvm.internal.IntCompanionObject
+resizeUpDown
+kotlin.Boolean.Companion
+HapticFeedbackType.successNotification
+Entry
+background_mode
+popRoute
+StripOffsets
+androidx.window.extensions.WindowExte...
+RESULT_DESIRED_FORMAT_UNSUPPORTED
+ISOSpeedRatings
+clearFocus
+ISO
+flutter/scribe
+ImageUtils
+hintText
+INACTIVE
+personNamePrefix
+enableOnBackInvokedCallbackState
+toString
+feature.rect
+SubIFDPointer
+kotlin.Boolean
+USHORT
+_queue
+List
+setSidecarCallback
+configurationId
+OECF
+info
+SCROLL_TO_OFFSET
+Failed
+NonDisposableHandle
+TextInputType.name
+navigation_bar_height
+java.lang.annotation.Annotation
+countryName
+FlutterImageView
+SystemSoundType.tick
+nodeId
+inputAction
+ThumbnailImageLength
+TERMINATED
+SRATIONAL
+Localization.getStringResource
+flutter/navigation
+extendedAddress
+wm.currentWindowMetrics.bounds
+content
+kotlin.collections.Map
+cached_engine_group_id
+ProcessText.queryTextActions
+statusBarColor
+Number
+SubjectArea
+hashCode
+ProfileInstaller
+updateBackGestureProgress
+java.lang.Boolean
+contentCommitMimeTypes
+FocalPlaneXResolution
+classSimpleName
+DeviceOrientation.landscapeRight
+Scribe.isStylusHandwritingAvailable
+ExifInterface
+IconCompat
+os.arch
+FlutterEngineCxnRegstry
+false
+keydown
+SubSecTimeDigitized
+Sharpness
+workerCtl
+activateSystemCursor
+TextInputClient.updateEditingState
+flutter/accessibility
+obj
+resizeLeft
+io.flutter.embedding.android.LeakVM
+pushRouteInformation
+resize
+androidx.window.extensions.layout.Fol...
+TextEditingDelta
+setInitialRoute
+TextInputAction.next
+SensingMethod
+DROP_OLDEST
+lastScheduledTask
+clipboard
+birthdayMonth
+hintLocales
+DateTime
+autocorrect
+HINGE
+java.lang.Character
+HapticFeedbackType.selectionClick
+endIndex
+context
+action
+text
+id
+birthdayYear
+TextInput.finishAutofillContext
+primary.prof
+io.flutter.embedding.android.EnableOp...
+signed
+params
+Contrast
+FlutterView
+announce
+UNDECIDED
+PLAIN_TEXT
+TextInputType.address
+getResId
+Byte
+TextInputType.url
+MOVE_CURSOR_FORWARD_BY_WORD
+fullStreetAddress
+Map
+arch_disk_io_
+telephoneNumber
+SamplesPerPixel
+cancelBackGesture
+YCbCrSubSampling
+kotlin.jvm.internal.ShortCompanionObject
+bundle
+kotlin.Int.Companion
+onDestroy
+personNameSuffix
+FlashEnergy
+kotlin.jvm.functions.Function
+GPSLongitude
+uri
+Annotation
+resizeLeftRight
+platformBrightness
+TextInputAction.done
+io.flutter.embedding.android.EnableCo...
+ReferenceBlackWhite
+android.widget.ScrollView
+equals
+onSaveInstanceState
+io.flutter.EntrypointUri
+ResolutionUnit
+/data/misc/profiles/ref/
+resizeUpLeftDownRight
+KeyboardManager
+RESUMED
+flutter/processtext
+newUsername
+main
+flutter/platform_views_2
+commitBackGesture
+_size
+mVisibleInsets
+io.flutter.embedding.android.EnableFl...
+personMiddleInitial
+cleartextTrafficPermitted
+DID_GAIN_ACCESSIBILITY_FOCUS
+kotlin.Number
+DeviceOrientation.portraitDown
+ThumbnailOrientation
+TOO_LATE_TO_CANCEL
+NULL
+birthDateMonth
+PhotographicSensitivity
+CompressedBitsPerPixel
+ListenableEditingState
+Double
+personMiddleName
+io.flutter.embedding.android.Impeller...
+null
+grabbing
+alwaysUse24HourFormat
+true
+Throwable
+Collection
+dispose
+Exif
+phoneNational
+SSHORT
+TextInputType.visiblePassword
+p0
+birthday
+SubjectDistance
+statusBarIconBrightness
+sendersAndCloseStatus
+asyncTraceEnd
+transform
+getWindowLayoutComponentMethod
+CustomRendered
+receivers
+STARTED
+kotlin.Byte.Companion
+kotlin.Comparable
+show_password
+consumer
+baseKey
+nativeSpellCheckServiceDefined
+UserComment
+DONE_RCV
+currentDisplay
+Clipboard.getData
+LensSpecification
+longPress
+TextInputType.twitter
+COROUTINE_SUSPENDED
+GPSDOP
+GPSInfoIFDPointer
+Trace
+Share.invoke
+androidx.core.view.inputmethod.Editor...
+flutter/textinput
+DefaultCropSize
+Completed
+callback
+RESUME_TOKEN
+LightSource
+ProcessText.processTextAction
+Artist
+io.flutter.embedding.android.DisableM...
+TextInput.hide
+createAsync
+telephoneNumberNational
+SubSecTimeOriginal
+character
+java.lang.Long
+SensitiveContent.isSupported
+metaState
+java.util.Map
+/data/misc/profiles/cur/0
+TRACE_TAG_APP
+height
+BOTTOM_OVERLAYS
+CUT
+BodySerialNumber
+$this$require
+SpectralSensitivity
+kotlin.Array
+accept
+input_method
+Float
+oldText
+Clipboard.hasStrings
+CONDITION_FALSE
+Cloneable
+SubjectDistanceRange
+ExposureBiasValue
+activity
+URATIONAL
+long
+SystemUiMode.immersive
+startBackGesture
+PlanarConfiguration
+kotlinx.coroutines.channels.defaultBu...
+HALF_OPENED
+ImageTextureRegistryEntry
+key
+email
+kotlin.Enum.Companion
+RESOURCE
+android.type.verbatim
+profileinstaller_profileWrittenFor_la...
+creditCardExpirationDate
+RowsPerStrip
+obscureText
+GPSAreaInformation
+WRITE_SKIP_FILE
+kotlin.Float
+kotlin.jvm.internal.ByteCompanionObject
+GPSMeasureMode
+androidx.core.view.inputmethod.Editor...
+systemNavigationBarIconBrightness
+contextMenu
+handled
+resizeRight
+SystemNavigator.pop
+progress
+STRING
+GPSDestDistance
+TextInputAction.newline
+compressed
+autofill
+TextCapitalization.none
+io.flutter.embedding.android.EnableVu...
+_prev
+FlutterImageDecoderImplDefault
+android.widget.EditText
+Scribe.startStylusHandwriting
+NO_DECISION
+JPEGInterchangeFormat
+loader
+postalCode
+primaryColor
+personGivenName
+kotlin.jvm.internal.CharCompanionObject
+TextInput.setEditingState
+androidx.profileinstaller.action.INST...
+ON_START
+birthDateFull
+TOP_OVERLAYS
+Dispatchers.Default
+kotlinx.coroutines.io.parallelism
+java.util.Collection
+XML:com.adobe.xmp
+CLOSE_HANDLER_CLOSED
+HIDDEN
+android.view.DisplayInfo
+postalAddressExtendedPostalCode
+profileInstalled
+NOT_IN_STACK
+TextInputAction.previous
+OffsetTimeOriginal
+GainControl
+_next
+ON_DESTROY
+destination
+enableDeltaModel
+ImageProcessingIFDPointer
+RESULT_ALREADY_INSTALLED
+flutter/mousecursor
+getTypeMethod
+textservices
+Iterator
+kotlin.jvm.internal.DoubleCompanionOb...
+text/plain
+creditCardExpirationYear
+Saturation
+flutter/system
+OffsetTimeDigitized
+SystemUiMode.leanBack
+onWindowLayoutChangeListenerRemoved
+Dispatchers.Main.immediate
+isSurfaceControlEnabled
+Scribe.isFeatureAvailable
+location
+java.lang.Object
+TextInputType.webSearch
+SystemChrome.setSystemUIChangeListener
+base
+dexopt/baseline.profm
+kotlinx.coroutines.bufferedChannel.se...
+TextInput.setPlatformViewClient
+extendedPostalCode
+android.intent.extra.PROCESS_TEXT
+GPSProcessingMethod
+zoomOut
+none
+type
+actionLabel
+TextCapitalization.sentences
+getViewRootImpl
+FocalPlaneResolutionUnit
+delimiter
+HapticFeedbackType.mediumImpact
+cont
+NONE
+ACTION_ARGUMENT_MOVEMENT_GRANULARITY_INT
+DeviceOrientation.portraitUp
+method
+CONSUMED
+hints
+systemNavigationBarContrastEnforced
+keyup
+java.util.Set
+onWindowLayoutChangeListenerAdded
+PreviewImageLength
+ACTION_ARGUMENT_SELECTION_START_INT
+push
+SpatialFrequencyResponse
+_state
+SensorRightBorder
+kotlin.Function20
+SHOW_ON_SCREEN
+brieflyShowPassword
+kotlin.Function21
+kotlin.Function22
+newDeviceState
+DELETE_SKIP_FILE
+gender
+java.lang.Double
+FOCUS
+resizeRow
+flutter/spellcheck
+usesVirtualDisplay
+addListenerMethod
+kotlin.Function16
+kotlin.Function17
+kotlin.Function14
+kotlin.Function15
+feature
+kotlin.Function18
+Char
+NO_THREAD_ELEMENTS
+INTERRUPTED_SEND
+kotlin.Function19
+get
+dark
+oneTimeCode
+FLAT
+getDisplayInfo
+copy
+precise
+DOUBLE
+event
+kotlin.Function12
+java.lang.Number
+kotlin.Function13
+kotlin.Function10
+kotlin.Function11
+resizeDownRight
+newLayout
+COPY
+PENDING
+androidx.profileinstaller.action.BENC...
+SystemChrome.setPreferredOrientations
+help
+phoneNumberDevice
+TransferFunction
+ShutterSpeedValue
+outState
+flutter/deferredcomponent
+elements
+Model
+SensorTopBorder
+java.lang.Comparable
+URI_MASKABLE
+ON_CREATE
+android.widget.Switch
+data
+resizeUpRightDownLeft
+ON_RESUME
+float
+getWindowExtensionsMethod
+BitsPerSample
+postalAddressExtended
+asyncTraceBegin
+TextCapitalization.characters
+Gamma
+JpgFromRaw
+InteroperabilityIFDPointer
+java.lang.Enum
+GPSVersionID
+enableIMEPersonalizedLearning
+familyName
+create
+DETACHED
+NewSubfileType
+TextInputType.datetime
+TextInputAction.go
+tap
+offset
+SystemChrome.setApplicationSwitcherDe...
+kotlin.jvm.internal.EnumCompanionObject
+CharSequence
+RESULT_UNSUPPORTED_ART_VERSION
+io.flutter.InitialRoute
+controlState
+transition_animation_scale
+keyCode
+swipeEdge
+Active
+postalAddress
+kotlin.collections.Iterable
+telephoneNumberDevice
+DATA
+UTF8
+ThumbnailImage
+files
+flutter/localization
+didGainFocus
+Software
+send
+CameraSettingsIFDPointer
+mChildNodeIds
+kotlin.collections.Map.Entry
+ISOSpeedLatitudeyyy
+GPSSatellites
+Brightness.light
+error
+GPSDestLatitude
+kotlin.Byte
+Int
+getBoundsMethod
+io.flutter.embedding.android.Impeller...
+DateTimeOriginal
+ExposureIndex
+bufferEnd
+PhotometricInterpretation
+array
+kotlin.collections.Set
+android.intent.action.SEND
+value
+getWindowLayoutInfo
+opaque
+REUSABLE_CLAIMED
+JPEGInterchangeFormatLength
+java.util.Iterator
+0x%08x
+dart_entrypoint_args
+TextInputClient.performAction
+onWindowFocusChanged
+ON_STOP
+Parcelizer
+addressState
+kotlin.CharSequence
+RESULT_IO_EXCEPTION
+int
+GPSDestLongitudeRef
+personName
+LensMake
+boolean
+getState
+com.google.android.inputmethod.latin
+Xmp
+AccessibilityBridge
+SCROLL_DOWN
+Marking id:accessibility_action_clickable_span:2131165184 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_0:2131165185 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_1:2131165186 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_10:2131165187 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_11:2131165188 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_12:2131165189 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_13:2131165190 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_14:2131165191 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_15:2131165192 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_16:2131165193 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_17:2131165194 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_18:2131165195 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_19:2131165196 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_2:2131165197 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_20:2131165198 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_21:2131165199 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_22:2131165200 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_23:2131165201 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_24:2131165202 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_25:2131165203 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_26:2131165204 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_27:2131165205 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_28:2131165206 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_29:2131165207 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_3:2131165208 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_30:2131165209 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_31:2131165210 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_4:2131165211 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_5:2131165212 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_6:2131165213 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_7:2131165214 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_8:2131165215 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_9:2131165216 used because it matches string pool constant acc
+Marking id:locale:2131165242 used because it matches string pool constant locale
+Marking id:topToBottom:2131165271 used because it matches string pool constant top
+Marking id:accessibility_action_clickable_span:2131165184 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_0:2131165185 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_1:2131165186 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_10:2131165187 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_11:2131165188 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_12:2131165189 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_13:2131165190 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_14:2131165191 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_15:2131165192 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_16:2131165193 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_17:2131165194 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_18:2131165195 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_19:2131165196 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_2:2131165197 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_20:2131165198 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_21:2131165199 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_22:2131165200 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_23:2131165201 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_24:2131165202 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_25:2131165203 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_26:2131165204 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_27:2131165205 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_28:2131165206 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_29:2131165207 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_3:2131165208 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_30:2131165209 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_31:2131165210 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_4:2131165211 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_5:2131165212 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_6:2131165213 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_7:2131165214 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_8:2131165215 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_9:2131165216 used because it matches string pool constant accessibility
+Marking id:view_tree_lifecycle_owner:2131165272 used because it matches string pool constant view
+Marking id:view_tree_on_back_pressed_dispatcher_owner:2131165273 used because it matches string pool constant view
+Marking id:view_tree_saved_state_registry_owner:2131165274 used because it matches string pool constant view
+Marking id:view_tree_view_model_store_owner:2131165275 used because it matches string pool constant view
+Marking color:androidx_core_ripple_material_light:2130968576 used because it matches string pool constant android
+Marking color:androidx_core_secondary_text_default_material_light:2130968577 used because it matches string pool constant android
+Marking id:androidx_window_activity_scope:2131165226 used because it matches string pool constant android
+Marking string:androidx_startup:2131427328 used because it matches string pool constant android
+Marking attr:shortcutMatchRequired:2130903067 used because it matches string pool constant short
+Marking id:info:2131165238 used because it matches string pool constant info
+Marking id:action_container:2131165217 used because it matches string pool constant action
+Marking id:action_divider:2131165218 used because it matches string pool constant action
+Marking id:action_image:2131165219 used because it matches string pool constant action
+Marking id:action_text:2131165220 used because it matches string pool constant action
+Marking id:actions:2131165221 used because it matches string pool constant action
+Marking id:text:2131165267 used because it matches string pool constant text
+Marking id:text2:2131165268 used because it matches string pool constant text
+Marking attr:activityAction:2130903040 used because it matches string pool constant activity
+Marking attr:activityName:2130903041 used because it matches string pool constant activity
+@com.fmu.estoque.produtos:anim/fragment_fast_out_extra_slow_in : reachable=false
+@com.fmu.estoque.produtos:animator/fragment_close_enter : reachable=false
+    @com.fmu.estoque.produtos:anim/fragment_fast_out_extra_slow_in
+@com.fmu.estoque.produtos:animator/fragment_close_exit : reachable=false
+    @com.fmu.estoque.produtos:anim/fragment_fast_out_extra_slow_in
+@com.fmu.estoque.produtos:animator/fragment_fade_enter : reachable=false
+@com.fmu.estoque.produtos:animator/fragment_fade_exit : reachable=false
+@com.fmu.estoque.produtos:animator/fragment_open_enter : reachable=false
+    @com.fmu.estoque.produtos:anim/fragment_fast_out_extra_slow_in
+@com.fmu.estoque.produtos:animator/fragment_open_exit : reachable=false
+    @com.fmu.estoque.produtos:anim/fragment_fast_out_extra_slow_in
+@com.fmu.estoque.produtos:attr/activityAction : reachable=true
+@com.fmu.estoque.produtos:attr/activityName : reachable=true
+@com.fmu.estoque.produtos:attr/alpha : reachable=false
+@com.fmu.estoque.produtos:attr/alwaysExpand : reachable=false
+@com.fmu.estoque.produtos:attr/animationBackgroundColor : reachable=false
+@com.fmu.estoque.produtos:attr/clearTop : reachable=false
+@com.fmu.estoque.produtos:attr/finishPrimaryWithPlaceholder : reachable=false
+@com.fmu.estoque.produtos:attr/finishPrimaryWithSecondary : reachable=false
+@com.fmu.estoque.produtos:attr/finishSecondaryWithPrimary : reachable=false
+@com.fmu.estoque.produtos:attr/font : reachable=false
+@com.fmu.estoque.produtos:attr/fontProviderAuthority : reachable=false
+@com.fmu.estoque.produtos:attr/fontProviderCerts : reachable=false
+@com.fmu.estoque.produtos:attr/fontProviderFetchStrategy : reachable=false
+@com.fmu.estoque.produtos:attr/fontProviderFetchTimeout : reachable=false
+@com.fmu.estoque.produtos:attr/fontProviderPackage : reachable=false
+@com.fmu.estoque.produtos:attr/fontProviderQuery : reachable=false
+@com.fmu.estoque.produtos:attr/fontProviderSystemFontFamily : reachable=false
+@com.fmu.estoque.produtos:attr/fontStyle : reachable=false
+@com.fmu.estoque.produtos:attr/fontVariationSettings : reachable=false
+@com.fmu.estoque.produtos:attr/fontWeight : reachable=false
+@com.fmu.estoque.produtos:attr/lStar : reachable=false
+@com.fmu.estoque.produtos:attr/nestedScrollViewStyle : reachable=false
+@com.fmu.estoque.produtos:attr/placeholderActivityName : reachable=false
+@com.fmu.estoque.produtos:attr/primaryActivityName : reachable=false
+@com.fmu.estoque.produtos:attr/queryPatterns : reachable=false
+@com.fmu.estoque.produtos:attr/secondaryActivityAction : reachable=false
+@com.fmu.estoque.produtos:attr/secondaryActivityName : reachable=false
+@com.fmu.estoque.produtos:attr/shortcutMatchRequired : reachable=true
+@com.fmu.estoque.produtos:attr/splitLayoutDirection : reachable=false
+@com.fmu.estoque.produtos:attr/splitMaxAspectRatioInLandscape : reachable=false
+@com.fmu.estoque.produtos:attr/splitMaxAspectRatioInPortrait : reachable=false
+@com.fmu.estoque.produtos:attr/splitMinHeightDp : reachable=false
+@com.fmu.estoque.produtos:attr/splitMinSmallestWidthDp : reachable=false
+@com.fmu.estoque.produtos:attr/splitMinWidthDp : reachable=false
+@com.fmu.estoque.produtos:attr/splitRatio : reachable=false
+@com.fmu.estoque.produtos:attr/stickyPlaceholder : reachable=false
+@com.fmu.estoque.produtos:attr/tag : reachable=false
+@com.fmu.estoque.produtos:attr/ttcIndex : reachable=false
+@com.fmu.estoque.produtos:color/androidx_core_ripple_material_light : reachable=true
+@com.fmu.estoque.produtos:color/androidx_core_secondary_text_default_material_light : reachable=true
+@com.fmu.estoque.produtos:color/call_notification_answer_color : reachable=false
+@com.fmu.estoque.produtos:color/call_notification_decline_color : reachable=false
+@com.fmu.estoque.produtos:color/ic_launcher_background : reachable=false
+@com.fmu.estoque.produtos:color/notification_action_color_filter : reachable=false
+    @com.fmu.estoque.produtos:color/androidx_core_secondary_text_default_material_light
+@com.fmu.estoque.produtos:color/notification_icon_bg_color : reachable=false
+@com.fmu.estoque.produtos:dimen/compat_button_inset_horizontal_material : reachable=false
+@com.fmu.estoque.produtos:dimen/compat_button_inset_vertical_material : reachable=false
+@com.fmu.estoque.produtos:dimen/compat_button_padding_horizontal_material : reachable=false
+@com.fmu.estoque.produtos:dimen/compat_button_padding_vertical_material : reachable=false
+@com.fmu.estoque.produtos:dimen/compat_control_corner_material : reachable=false
+@com.fmu.estoque.produtos:dimen/compat_notification_large_icon_max_height : reachable=false
+@com.fmu.estoque.produtos:dimen/compat_notification_large_icon_max_width : reachable=false
+@com.fmu.estoque.produtos:dimen/notification_action_icon_size : reachable=false
+@com.fmu.estoque.produtos:dimen/notification_action_text_size : reachable=false
+@com.fmu.estoque.produtos:dimen/notification_big_circle_margin : reachable=false
+@com.fmu.estoque.produtos:dimen/notification_content_margin_start : reachable=false
+@com.fmu.estoque.produtos:dimen/notification_large_icon_height : reachable=false
+@com.fmu.estoque.produtos:dimen/notification_large_icon_width : reachable=false
+@com.fmu.estoque.produtos:dimen/notification_main_column_padding_top : reachable=false
+@com.fmu.estoque.produtos:dimen/notification_media_narrow_margin : reachable=false
+@com.fmu.estoque.produtos:dimen/notification_right_icon_size : reachable=false
+@com.fmu.estoque.produtos:dimen/notification_right_side_padding_top : reachable=false
+@com.fmu.estoque.produtos:dimen/notification_small_icon_background_padding : reachable=false
+@com.fmu.estoque.produtos:dimen/notification_small_icon_size_as_large : reachable=false
+@com.fmu.estoque.produtos:dimen/notification_subtext_size : reachable=false
+@com.fmu.estoque.produtos:dimen/notification_top_pad : reachable=false
+@com.fmu.estoque.produtos:dimen/notification_top_pad_large_text : reachable=false
+@com.fmu.estoque.produtos:drawable/ic_call_answer : reachable=false
+@com.fmu.estoque.produtos:drawable/ic_call_answer_low : reachable=false
+@com.fmu.estoque.produtos:drawable/ic_call_answer_video : reachable=false
+@com.fmu.estoque.produtos:drawable/ic_call_answer_video_low : reachable=false
+@com.fmu.estoque.produtos:drawable/ic_call_decline : reachable=false
+@com.fmu.estoque.produtos:drawable/ic_call_decline_low : reachable=false
+@com.fmu.estoque.produtos:drawable/ic_launcher_foreground : reachable=false
+@com.fmu.estoque.produtos:drawable/launch_background : reachable=false
+@com.fmu.estoque.produtos:drawable/notification_action_background : reachable=false
+    @com.fmu.estoque.produtos:color/androidx_core_ripple_material_light
+    @com.fmu.estoque.produtos:dimen/compat_button_inset_horizontal_material
+    @com.fmu.estoque.produtos:dimen/compat_button_inset_vertical_material
+    @com.fmu.estoque.produtos:dimen/compat_control_corner_material
+    @com.fmu.estoque.produtos:dimen/compat_button_padding_vertical_material
+    @com.fmu.estoque.produtos:dimen/compat_button_padding_horizontal_material
+@com.fmu.estoque.produtos:drawable/notification_bg : reachable=false
+    @com.fmu.estoque.produtos:drawable/notification_bg_normal_pressed
+    @com.fmu.estoque.produtos:drawable/notification_bg_normal
+@com.fmu.estoque.produtos:drawable/notification_bg_low : reachable=false
+    @com.fmu.estoque.produtos:drawable/notification_bg_low_pressed
+    @com.fmu.estoque.produtos:drawable/notification_bg_low_normal
+@com.fmu.estoque.produtos:drawable/notification_bg_low_normal : reachable=false
+@com.fmu.estoque.produtos:drawable/notification_bg_low_pressed : reachable=false
+@com.fmu.estoque.produtos:drawable/notification_bg_normal : reachable=false
+@com.fmu.estoque.produtos:drawable/notification_bg_normal_pressed : reachable=false
+@com.fmu.estoque.produtos:drawable/notification_icon_background : reachable=false
+    @com.fmu.estoque.produtos:color/notification_icon_bg_color
+@com.fmu.estoque.produtos:drawable/notification_oversize_large_icon_bg : reachable=false
+@com.fmu.estoque.produtos:drawable/notification_template_icon_bg : reachable=false
+@com.fmu.estoque.produtos:drawable/notification_template_icon_low_bg : reachable=false
+@com.fmu.estoque.produtos:drawable/notification_tile_bg : reachable=false
+    @com.fmu.estoque.produtos:drawable/notify_panel_notification_icon_bg
+@com.fmu.estoque.produtos:drawable/notify_panel_notification_icon_bg : reachable=false
+@com.fmu.estoque.produtos:id/accessibility_action_clickable_span : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_0 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_1 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_10 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_11 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_12 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_13 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_14 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_15 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_16 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_17 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_18 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_19 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_2 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_20 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_21 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_22 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_23 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_24 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_25 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_26 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_27 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_28 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_29 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_3 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_30 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_31 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_4 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_5 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_6 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_7 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_8 : reachable=true
+@com.fmu.estoque.produtos:id/accessibility_custom_action_9 : reachable=true
+@com.fmu.estoque.produtos:id/action_container : reachable=true
+@com.fmu.estoque.produtos:id/action_divider : reachable=true
+@com.fmu.estoque.produtos:id/action_image : reachable=true
+@com.fmu.estoque.produtos:id/action_text : reachable=true
+@com.fmu.estoque.produtos:id/actions : reachable=true
+@com.fmu.estoque.produtos:id/adjacent : reachable=false
+@com.fmu.estoque.produtos:id/always : reachable=false
+@com.fmu.estoque.produtos:id/alwaysAllow : reachable=false
+@com.fmu.estoque.produtos:id/alwaysDisallow : reachable=false
+@com.fmu.estoque.produtos:id/androidx_window_activity_scope : reachable=true
+@com.fmu.estoque.produtos:id/async : reachable=false
+@com.fmu.estoque.produtos:id/blocking : reachable=false
+@com.fmu.estoque.produtos:id/bottomToTop : reachable=false
+@com.fmu.estoque.produtos:id/chronometer : reachable=false
+@com.fmu.estoque.produtos:id/dialog_button : reachable=false
+@com.fmu.estoque.produtos:id/edit_text_id : reachable=false
+@com.fmu.estoque.produtos:id/forever : reachable=false
+@com.fmu.estoque.produtos:id/fragment_container_view_tag : reachable=false
+@com.fmu.estoque.produtos:id/hide_ime_id : reachable=false
+@com.fmu.estoque.produtos:id/icon : reachable=false
+@com.fmu.estoque.produtos:id/icon_group : reachable=false
+@com.fmu.estoque.produtos:id/info : reachable=true
+@com.fmu.estoque.produtos:id/italic : reachable=false
+@com.fmu.estoque.produtos:id/line1 : reachable=false
+@com.fmu.estoque.produtos:id/line3 : reachable=false
+@com.fmu.estoque.produtos:id/locale : reachable=true
+@com.fmu.estoque.produtos:id/ltr : reachable=false
+@com.fmu.estoque.produtos:id/never : reachable=false
+@com.fmu.estoque.produtos:id/normal : reachable=false
+@com.fmu.estoque.produtos:id/notification_background : reachable=false
+@com.fmu.estoque.produtos:id/notification_main_column : reachable=false
+@com.fmu.estoque.produtos:id/notification_main_column_container : reachable=false
+@com.fmu.estoque.produtos:id/report_drawn : reachable=false
+@com.fmu.estoque.produtos:id/right_icon : reachable=false
+@com.fmu.estoque.produtos:id/right_side : reachable=false
+@com.fmu.estoque.produtos:id/rtl : reachable=false
+@com.fmu.estoque.produtos:id/special_effects_controller_view_tag : reachable=false
+@com.fmu.estoque.produtos:id/tag_accessibility_actions : reachable=false
+@com.fmu.estoque.produtos:id/tag_accessibility_clickable_spans : reachable=false
+@com.fmu.estoque.produtos:id/tag_accessibility_heading : reachable=false
+@com.fmu.estoque.produtos:id/tag_accessibility_pane_title : reachable=false
+@com.fmu.estoque.produtos:id/tag_on_apply_window_listener : reachable=false
+@com.fmu.estoque.produtos:id/tag_on_receive_content_listener : reachable=false
+@com.fmu.estoque.produtos:id/tag_on_receive_content_mime_types : reachable=false
+@com.fmu.estoque.produtos:id/tag_screen_reader_focusable : reachable=false
+@com.fmu.estoque.produtos:id/tag_state_description : reachable=false
+@com.fmu.estoque.produtos:id/tag_transition_group : reachable=false
+@com.fmu.estoque.produtos:id/tag_unhandled_key_event_manager : reachable=false
+@com.fmu.estoque.produtos:id/tag_unhandled_key_listeners : reachable=false
+@com.fmu.estoque.produtos:id/tag_window_insets_animation_callback : reachable=false
+@com.fmu.estoque.produtos:id/text : reachable=true
+@com.fmu.estoque.produtos:id/text2 : reachable=true
+@com.fmu.estoque.produtos:id/time : reachable=false
+@com.fmu.estoque.produtos:id/title : reachable=false
+@com.fmu.estoque.produtos:id/topToBottom : reachable=true
+@com.fmu.estoque.produtos:id/view_tree_lifecycle_owner : reachable=true
+@com.fmu.estoque.produtos:id/view_tree_on_back_pressed_dispatcher_owner : reachable=true
+@com.fmu.estoque.produtos:id/view_tree_saved_state_registry_owner : reachable=true
+@com.fmu.estoque.produtos:id/view_tree_view_model_store_owner : reachable=true
+@com.fmu.estoque.produtos:id/visible_removing_fragment_view_tag : reachable=false
+@com.fmu.estoque.produtos:integer/status_bar_notification_info_maxnum : reachable=false
+@com.fmu.estoque.produtos:layout/custom_dialog : reachable=false
+@com.fmu.estoque.produtos:layout/ime_base_split_test_activity : reachable=false
+@com.fmu.estoque.produtos:layout/ime_secondary_split_test_activity : reachable=false
+@com.fmu.estoque.produtos:layout/notification_action : reachable=false
+    @com.fmu.estoque.produtos:style/Widget_Compat_NotificationActionContainer
+    @com.fmu.estoque.produtos:dimen/notification_action_icon_size
+    @com.fmu.estoque.produtos:style/Widget_Compat_NotificationActionText
+@com.fmu.estoque.produtos:layout/notification_action_tombstone : reachable=false
+    @com.fmu.estoque.produtos:style/Widget_Compat_NotificationActionContainer
+    @com.fmu.estoque.produtos:dimen/notification_action_icon_size
+    @com.fmu.estoque.produtos:style/Widget_Compat_NotificationActionText
+@com.fmu.estoque.produtos:layout/notification_template_custom_big : reachable=false
+    @com.fmu.estoque.produtos:layout/notification_template_icon_group
+    @com.fmu.estoque.produtos:dimen/notification_large_icon_width
+    @com.fmu.estoque.produtos:dimen/notification_large_icon_height
+    @com.fmu.estoque.produtos:dimen/notification_right_side_padding_top
+    @com.fmu.estoque.produtos:layout/notification_template_part_time
+    @com.fmu.estoque.produtos:layout/notification_template_part_chronometer
+    @com.fmu.estoque.produtos:style/TextAppearance_Compat_Notification_Info
+@com.fmu.estoque.produtos:layout/notification_template_icon_group : reachable=false
+    @com.fmu.estoque.produtos:dimen/notification_large_icon_width
+    @com.fmu.estoque.produtos:dimen/notification_large_icon_height
+    @com.fmu.estoque.produtos:dimen/notification_big_circle_margin
+    @com.fmu.estoque.produtos:dimen/notification_right_icon_size
+@com.fmu.estoque.produtos:layout/notification_template_part_chronometer : reachable=false
+    @com.fmu.estoque.produtos:style/TextAppearance_Compat_Notification_Time
+@com.fmu.estoque.produtos:layout/notification_template_part_time : reachable=false
+    @com.fmu.estoque.produtos:style/TextAppearance_Compat_Notification_Time
+@com.fmu.estoque.produtos:mipmap/ic_launcher : reachable=true
+    @com.fmu.estoque.produtos:color/ic_launcher_background
+    @com.fmu.estoque.produtos:drawable/ic_launcher_foreground
+@com.fmu.estoque.produtos:string/androidx_startup : reachable=true
+@com.fmu.estoque.produtos:string/call_notification_answer_action : reachable=false
+@com.fmu.estoque.produtos:string/call_notification_answer_video_action : reachable=false
+@com.fmu.estoque.produtos:string/call_notification_decline_action : reachable=false
+@com.fmu.estoque.produtos:string/call_notification_hang_up_action : reachable=false
+@com.fmu.estoque.produtos:string/call_notification_incoming_text : reachable=false
+@com.fmu.estoque.produtos:string/call_notification_ongoing_text : reachable=false
+@com.fmu.estoque.produtos:string/call_notification_screening_text : reachable=false
+@com.fmu.estoque.produtos:string/status_bar_notification_info_overflow : reachable=false
+@com.fmu.estoque.produtos:style/LaunchTheme : reachable=true
+    @com.fmu.estoque.produtos:drawable/launch_background
+@com.fmu.estoque.produtos:style/NormalTheme : reachable=true
+@com.fmu.estoque.produtos:style/TextAppearance_Compat_Notification : reachable=false
+@com.fmu.estoque.produtos:style/TextAppearance_Compat_Notification_Info : reachable=false
+@com.fmu.estoque.produtos:style/TextAppearance_Compat_Notification_Line2 : reachable=false
+    @com.fmu.estoque.produtos:style/TextAppearance_Compat_Notification_Info
+@com.fmu.estoque.produtos:style/TextAppearance_Compat_Notification_Time : reachable=false
+@com.fmu.estoque.produtos:style/TextAppearance_Compat_Notification_Title : reachable=false
+@com.fmu.estoque.produtos:style/Widget_Compat_NotificationActionContainer : reachable=false
+    @com.fmu.estoque.produtos:drawable/notification_action_background
+@com.fmu.estoque.produtos:style/Widget_Compat_NotificationActionText : reachable=false
+    @com.fmu.estoque.produtos:color/androidx_core_secondary_text_default_material_light
+    @com.fmu.estoque.produtos:dimen/notification_action_text_size
+
+The root reachable resources are:
+ attr:activityAction:2130903040
+ attr:activityName:2130903041
+ attr:shortcutMatchRequired:2130903067
+ color:androidx_core_ripple_material_light:2130968576
+ color:androidx_core_secondary_text_default_material_light:2130968577
+ id:accessibility_action_clickable_span:2131165184
+ id:accessibility_custom_action_0:2131165185
+ id:accessibility_custom_action_1:2131165186
+ id:accessibility_custom_action_10:2131165187
+ id:accessibility_custom_action_11:2131165188
+ id:accessibility_custom_action_12:2131165189
+ id:accessibility_custom_action_13:2131165190
+ id:accessibility_custom_action_14:2131165191
+ id:accessibility_custom_action_15:2131165192
+ id:accessibility_custom_action_16:2131165193
+ id:accessibility_custom_action_17:2131165194
+ id:accessibility_custom_action_18:2131165195
+ id:accessibility_custom_action_19:2131165196
+ id:accessibility_custom_action_2:2131165197
+ id:accessibility_custom_action_20:2131165198
+ id:accessibility_custom_action_21:2131165199
+ id:accessibility_custom_action_22:2131165200
+ id:accessibility_custom_action_23:2131165201
+ id:accessibility_custom_action_24:2131165202
+ id:accessibility_custom_action_25:2131165203
+ id:accessibility_custom_action_26:2131165204
+ id:accessibility_custom_action_27:2131165205
+ id:accessibility_custom_action_28:2131165206
+ id:accessibility_custom_action_29:2131165207
+ id:accessibility_custom_action_3:2131165208
+ id:accessibility_custom_action_30:2131165209
+ id:accessibility_custom_action_31:2131165210
+ id:accessibility_custom_action_4:2131165211
+ id:accessibility_custom_action_5:2131165212
+ id:accessibility_custom_action_6:2131165213
+ id:accessibility_custom_action_7:2131165214
+ id:accessibility_custom_action_8:2131165215
+ id:accessibility_custom_action_9:2131165216
+ id:action_container:2131165217
+ id:action_divider:2131165218
+ id:action_image:2131165219
+ id:action_text:2131165220
+ id:actions:2131165221
+ id:androidx_window_activity_scope:2131165226
+ id:info:2131165238
+ id:locale:2131165242
+ id:text:2131165267
+ id:text2:2131165268
+ id:topToBottom:2131165271
+ id:view_tree_lifecycle_owner:2131165272
+ id:view_tree_on_back_pressed_dispatcher_owner:2131165273
+ id:view_tree_saved_state_registry_owner:2131165274
+ id:view_tree_view_model_store_owner:2131165275
+ mipmap:ic_launcher:2131361792
+ string:androidx_startup:2131427328
+ style:LaunchTheme:2131492864
+ style:NormalTheme:2131492865
+Unused resources are: 
+ anim:fragment_fast_out_extra_slow_in:2130771968
+ animator:fragment_close_enter:2130837504
+ animator:fragment_close_exit:2130837505
+ animator:fragment_fade_enter:2130837506
+ animator:fragment_fade_exit:2130837507
+ animator:fragment_open_enter:2130837508
+ animator:fragment_open_exit:2130837509
+ color:call_notification_answer_color:2130968578
+ color:call_notification_decline_color:2130968579
+ color:notification_action_color_filter:2130968581
+ color:notification_icon_bg_color:2130968582
+ dimen:compat_button_inset_horizontal_material:2131034112
+ dimen:compat_button_inset_vertical_material:2131034113
+ dimen:compat_button_padding_horizontal_material:2131034114
+ dimen:compat_button_padding_vertical_material:2131034115
+ dimen:compat_control_corner_material:2131034116
+ dimen:compat_notification_large_icon_max_height:2131034117
+ dimen:compat_notification_large_icon_max_width:2131034118
+ dimen:notification_action_icon_size:2131034119
+ dimen:notification_action_text_size:2131034120
+ dimen:notification_big_circle_margin:2131034121
+ dimen:notification_content_margin_start:2131034122
+ dimen:notification_large_icon_height:2131034123
+ dimen:notification_large_icon_width:2131034124
+ dimen:notification_main_column_padding_top:2131034125
+ dimen:notification_media_narrow_margin:2131034126
+ dimen:notification_right_icon_size:2131034127
+ dimen:notification_right_side_padding_top:2131034128
+ dimen:notification_small_icon_background_padding:2131034129
+ dimen:notification_small_icon_size_as_large:2131034130
+ dimen:notification_subtext_size:2131034131
+ dimen:notification_top_pad:2131034132
+ dimen:notification_top_pad_large_text:2131034133
+ drawable:ic_call_answer:2131099648
+ drawable:ic_call_answer_low:2131099649
+ drawable:ic_call_answer_video:2131099650
+ drawable:ic_call_answer_video_low:2131099651
+ drawable:ic_call_decline:2131099652
+ drawable:ic_call_decline_low:2131099653
+ drawable:notification_action_background:2131099656
+ drawable:notification_bg:2131099657
+ drawable:notification_bg_low:2131099658
+ drawable:notification_bg_low_normal:2131099659
+ drawable:notification_bg_low_pressed:2131099660
+ drawable:notification_bg_normal:2131099661
+ drawable:notification_bg_normal_pressed:2131099662
+ drawable:notification_icon_background:2131099663
+ drawable:notification_oversize_large_icon_bg:2131099664
+ drawable:notification_template_icon_bg:2131099665
+ drawable:notification_template_icon_low_bg:2131099666
+ drawable:notification_tile_bg:2131099667
+ drawable:notify_panel_notification_icon_bg:2131099668
+ id:adjacent:2131165222
+ id:always:2131165223
+ id:alwaysAllow:2131165224
+ id:alwaysDisallow:2131165225
+ id:async:2131165227
+ id:blocking:2131165228
+ id:bottomToTop:2131165229
+ id:chronometer:2131165230
+ id:dialog_button:2131165231
+ id:edit_text_id:2131165232
+ id:forever:2131165233
+ id:fragment_container_view_tag:2131165234
+ id:hide_ime_id:2131165235
+ id:icon:2131165236
+ id:icon_group:2131165237
+ id:italic:2131165239
+ id:line1:2131165240
+ id:line3:2131165241
+ id:ltr:2131165243
+ id:never:2131165244
+ id:normal:2131165245
+ id:notification_background:2131165246
+ id:notification_main_column:2131165247
+ id:notification_main_column_container:2131165248
+ id:report_drawn:2131165249
+ id:right_icon:2131165250
+ id:right_side:2131165251
+ id:rtl:2131165252
+ id:special_effects_controller_view_tag:2131165253
+ id:tag_accessibility_actions:2131165254
+ id:tag_accessibility_clickable_spans:2131165255
+ id:tag_accessibility_heading:2131165256
+ id:tag_accessibility_pane_title:2131165257
+ id:tag_on_apply_window_listener:2131165258
+ id:tag_on_receive_content_listener:2131165259
+ id:tag_on_receive_content_mime_types:2131165260
+ id:tag_screen_reader_focusable:2131165261
+ id:tag_state_description:2131165262
+ id:tag_transition_group:2131165263
+ id:tag_unhandled_key_event_manager:2131165264
+ id:tag_unhandled_key_listeners:2131165265
+ id:tag_window_insets_animation_callback:2131165266
+ id:time:2131165269
+ id:title:2131165270
+ id:visible_removing_fragment_view_tag:2131165276
+ integer:status_bar_notification_info_maxnum:2131230720
+ layout:custom_dialog:2131296256
+ layout:ime_base_split_test_activity:2131296257
+ layout:ime_secondary_split_test_activity:2131296258
+ layout:notification_action:2131296259
+ layout:notification_action_tombstone:2131296260
+ layout:notification_template_custom_big:2131296261
+ layout:notification_template_icon_group:2131296262
+ layout:notification_template_part_chronometer:2131296263
+ layout:notification_template_part_time:2131296264
+ string:call_notification_answer_action:2131427329
+ string:call_notification_answer_video_action:2131427330
+ string:call_notification_decline_action:2131427331
+ string:call_notification_hang_up_action:2131427332
+ string:call_notification_incoming_text:2131427333
+ string:call_notification_ongoing_text:2131427334
+ string:call_notification_screening_text:2131427335
+ string:status_bar_notification_info_overflow:2131427336
+ style:TextAppearance_Compat_Notification:2131492866
+ style:TextAppearance_Compat_Notification_Info:2131492867
+ style:TextAppearance_Compat_Notification_Line2:2131492868
+ style:TextAppearance_Compat_Notification_Time:2131492869
+ style:TextAppearance_Compat_Notification_Title:2131492870
+ style:Widget_Compat_NotificationActionContainer:2131492871
+ style:Widget_Compat_NotificationActionText:2131492872

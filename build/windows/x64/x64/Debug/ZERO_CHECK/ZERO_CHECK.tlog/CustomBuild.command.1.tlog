@@ -1,0 +1,10 @@
+^C:\USERS\DIOLE\STUDIOPROJECTS\PRODUTOS\BUILD\WINDOWS\X64\CMAKEFILES\1A733FA7D3B0852AB062885538454433\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/diole/StudioProjects/produtos/windows -BC:/Users/diole/StudioProjects/produtos/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/diole/StudioProjects/produtos/build/windows/x64/produtos.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
