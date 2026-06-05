@@ -6,7 +6,7 @@ void main() {
   runApp(const MyApp());
 }
 
-// IMPORTANTE: Altere para a URL real da sua pasta 'api' no HostGator
+// IMPORTANTE: apontar para pasta do proedor
 const String baseUrl = "https://innometrics.com.br/api";
 
 class UserSession {
