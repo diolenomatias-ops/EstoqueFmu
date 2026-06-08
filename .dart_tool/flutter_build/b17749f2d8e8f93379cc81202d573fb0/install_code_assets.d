@@ -1,1 +1,0 @@
- C:\\Users\\diole\\StudioProjects\\produtos\\.dart_tool\\flutter_build\\b17749f2d8e8f93379cc81202d573fb0\\native_assets.json: 
